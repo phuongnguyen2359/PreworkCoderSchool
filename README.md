@@ -10,7 +10,7 @@ Time spent: about 12 hours spent in total from knowing nothing about iOS develop
 ## User Stories
  
 
-The following functionality is complete:
+The following **required** functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [x] Settings page to change the default tip percentage.
